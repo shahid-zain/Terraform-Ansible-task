@@ -2,8 +2,8 @@
 
 # Code to Deploy moodle app in remote instance
 ## files to create infra install moodle
-1.ansi_res.tf   -- this will push ansible.sh file in remote instance and execute it.
-2.ansible.sh    -- install apache2 and ansible
+1.ansi_res.tf   -- this will push ansible.sh file in remote instance and execute it. \n
+2.ansible.sh    -- install apache2 and ansible \n
 3.instance.tf   -- create 2 instance in public and private subnet
 4.keys.tf       -- create key
 5.moodle.conf   -- configure moodle application
